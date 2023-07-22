@@ -8,3 +8,4 @@ o=fun()
 for j in o:
  print(j)
 print("editing on githubADE-1")
+print("trying to push after editing file which is pulled from remotte")
