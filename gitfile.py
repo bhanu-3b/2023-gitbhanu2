@@ -7,3 +7,4 @@ def fun():
 o=fun()
 for j in o:
  print(j)
+print("editing on githubADE-1")
