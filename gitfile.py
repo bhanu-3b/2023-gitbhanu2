@@ -10,3 +10,4 @@ for j in o:
 print("editing on githubADE-1")
 print("trying to push after editing file which is pulled from remotte")
 print("need commit 02 after code editing")
+print("added love song --my love ma..my love ma..")
